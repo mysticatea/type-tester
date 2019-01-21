@@ -76,7 +76,7 @@ The class to verify expected type errors.
 #### Parameters
 
 Name | Description
-:----|:-----|:-----------
+:----|:-----------
 `ts` | API to use type checking.
 `options.describe` | Optional. Function to declare test suites. Use `global.describe` by default.
 `options.it` | Optional. Function to declare test cases. Use `global.it` by default.
