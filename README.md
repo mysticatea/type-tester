@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/type-tester.svg)](https://www.npmjs.com/package/type-tester)
 [![Downloads/month](https://img.shields.io/npm/dm/type-tester.svg)](http://www.npmtrends.com/type-tester)
-[![Build Status](https://travis-ci.org/mysticatea/type-tester.svg?branch=master)](https://travis-ci.org/mysticatea/type-tester)
+[![Build Status](https://travis-ci.com/mysticatea/type-tester.svg?branch=master)](https://travis-ci.com/mysticatea/type-tester)
 [![Coverage Status](https://codecov.io/gh/mysticatea/type-tester/branch/master/graph/badge.svg)](https://codecov.io/gh/mysticatea/type-tester)
 [![Dependency Status](https://david-dm.org/mysticatea/type-tester.svg)](https://david-dm.org/mysticatea/type-tester)
 
